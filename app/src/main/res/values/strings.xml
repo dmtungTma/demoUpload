@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dual Screen</string>
+    <string name="second_screen_image">Background Image</string>
+    <string name="str_button">Show on Second Screen</string>
+</resources>
